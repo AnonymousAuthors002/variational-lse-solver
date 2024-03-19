@@ -72,7 +72,7 @@ Furthermore, we identified some small inaccuracies, which might lead to convergi
 If you use the `variational-lse-solve` library or results from the paper, please cite our work as
 
 ```
-Anonymious Citation
+Anonymous Citation
 ```
 
 ## Version History
